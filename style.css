@@ -1,0 +1,19 @@
+p{
+	color: red;
+	font-size:50px;
+	background-color:lightblue;
+	text-align: center;
+}
+body{
+background-color: lightpink;
+}
+*{
+	color: greenyellow;
+	font-size: 100px;
+}
+#two{
+	color: bule;
+}
+.one{
+	color: grey;
+}
