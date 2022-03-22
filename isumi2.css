@@ -1,0 +1,65 @@
+#one{
+	font-family: 'Love Light', cursive;
+	font-size: 700%;
+}
+.one{
+	font-size: 500%;
+	color: ;
+	margin: 10px 10px 10px 10px;
+	}
+.two{
+	margin: 10px 10px 10px 20px; 
+	font-size:300%;
+	color: ;}
+.three{ 
+ font-size: 450%;
+ margin: 10px 10px 10px; 
+}
+.four{ 
+	font-size:250%;
+	color: ;
+	margin: 10px 10px 10px ; 
+}
+#five{
+	font-size: 300%;
+}
+.six{
+ margin: 10px;
+ size: 100%;
+}
+form{
+	border: 5px solid black;
+}
+.seven{
+	border: 5px solid black;
+	font-size: 250%;
+}
+#A{
+	margin-left: 50px;
+	color: white;
+	text-decoration: none;
+}
+#B{
+	margin-left: 550px;
+	color: white;
+	text-decoration: none;
+}
+#C{
+	margin-left: 550px;
+	color: white;
+	text-decoration: none;
+}
+#D{
+	font-size: 350%;
+	background-color: orange; 
+	border: 35px solid orange;
+	border-radius: 20px;
+	padding: 5px;
+	margin-right: 400px;
+    margin-left: 400px;
+    postion: fixed;
+}
+
+a:hover{
+	background-color: brown;
+}
