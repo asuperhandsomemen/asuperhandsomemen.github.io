@@ -41,12 +41,20 @@ form{
 	margin-left: 550px;
 	color: white;
 	text-decoration: none;
+
 }
 #C{
 	margin-left: 550px;
 	color: white;
 	text-decoration: none;
 }
+#E{
+	margin-left: 550px;
+	color: white;
+	text-decoration: none;
+	
+}
+
 #D{
 	font-size: 350%;
 	background-color: purple; 
@@ -67,6 +75,10 @@ form{
 	color: purple;
 }
 #C:hover{
+	background-color: pink;
+	color: purple;
+}
+#E:hover{
 	background-color: pink;
 	color: purple;
 }
