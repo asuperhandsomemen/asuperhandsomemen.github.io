@@ -1,0 +1,80 @@
+#title{
+	text-align: center;
+font-family: 'Libre Baskerville', serif;
+	font-size: 80px;
+}
+
+#A{
+	margin-left: 30px;
+	color: white;
+	text-decoration: none;
+}
+#B{
+	margin-left: 95px;
+	color: white;
+	text-decoration: none;
+}
+#C{
+	margin-left: 95px;
+	color: white;
+	text-decoration: none;
+}
+#D{
+	margin-left: 95px;
+	color: white;
+	text-decoration: none;
+}
+#E{
+	font-size: 175%;
+	background-color: black; 
+	border: 17.5px solid black;
+	border-radius: 10px;
+	padding: 10px;
+	margin-right: 150px;
+    margin-left: 150px;
+    postion: fixed;
+}
+.message1{
+	margin: 5px 5px 5px; 
+	font-size:20px;
+}
+.message2{
+	margin: 5px 5px 5px; 
+	font-size:25px;
+	color: white;
+}
+.message3{
+	margin: 5px 5px 5px; 
+	font-size:20px;
+	color: white;
+}
+.message4{
+	margin: 5px 5px 5px; 
+	font-size:20px;
+}
+
+#subtitle{
+	font-size: 200%;
+ margin: 5px 5px 5px; 
+}
+.subtitle2{
+	font-size: 200%;
+ margin: 5px 5px 5px; 
+ color: white;
+}
+.subtitle3{
+	font-size: 250%;
+margin: 5px 42px 5px; 
+color: white;
+}
+#subtitle4{
+	font-size: 200%;
+margin: 5px 42px 5px; 
+}
+.column{
+    float: left;
+    width: 15%;
+    text-align: center;
+    margin-left:5px ;
+    padding: 65px
+}
