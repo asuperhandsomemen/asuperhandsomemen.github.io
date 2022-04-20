@@ -6,7 +6,7 @@ function mode1(){
 }
 function mode2(){
 	document.getElementById("game modes").innerHTML = "ARAM means All Random, All Mid,that is a five-versus-five mode like Summoner's Rift, but on a map called Howling Abyss with only one long lane, no jungle area, and with champions randomly chosen for players. Given the small size of the map, players must be vigilant in avoiding enemy abilities.";
-	document.getElementById("zzz").src="https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Howling_Abyss_Minimap.png/revision/latest/scale-to-width-down/512?cb=20170222210644";
+	document.getElementById("zzz").src="https://images2.minutemediacdn.com/image/upload/c_fill,w_912,h_516,f_auto,q_auto,g_auto/shape/cover/sport/5b0f4af5f7b09dc3ea000001.jpeg";
 	document.getElementById("game modes").style.fontSize = "20px";
 	document.getElementById("game modes").style.margin = "5px";
 }
